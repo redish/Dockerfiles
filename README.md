@@ -12,3 +12,7 @@
 * yarn 1.9.4
 * Google Chrome stable
 
+#### dockerfile-node-with-firebase-tools
+
+* node 8.1.1
+* firebase-tools 4.1.0
