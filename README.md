@@ -16,3 +16,10 @@
 
 * node 8.1.1
 * firebase-tools 4.1.0
+* firebase-bolt 0.8.4
+
+#### dockerfile-aws-apex
+
+#### dockerfile-golang-1.10.3
+
+
